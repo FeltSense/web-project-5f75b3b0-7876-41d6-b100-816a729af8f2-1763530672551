@@ -16,7 +16,7 @@ export default function Testimonials() {
         </span>
       </div>
       <h2 className="text-4xl sm:text-5xl lg:text-6xl font-black text-gray-900 mb-4 leading-tight">
-        They Saw Their{&apos; &apos;}
+        They Saw Their{' '}
         <span className="bg-gradient-to-r from-red-500 via-pink-500 to-purple-600 bg-clip-text text-transparent">
           Red Flags
         </span>
